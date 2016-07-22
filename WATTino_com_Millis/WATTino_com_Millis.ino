@@ -8,7 +8,7 @@ float LeituraCorrente = 0;     // Variavel que guarda os valores lidos de Corren
 
 
 unsigned long  tempoAnterior = 0;
-const long intervalo = 67;
+const long intervalo = 67;            //Pode ser alterado para 65.75  
 
 
 void setup() 
